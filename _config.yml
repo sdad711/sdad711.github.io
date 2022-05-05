@@ -1,25 +1,25 @@
 title: Gordan Bezjak  # your name (or website title) here
 logo: "/images/ProfilePicture.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Game Developer in Unity \n
+  Game Developer in Unity <br>
   .NET Programmer
   <br><br>
-  Professor of Croatian Studies \n
+  Professor of Croatian Studies <br>
   Professor of Classical Studies 
   <br><br>
-  Musician \n
-  Amateur Actor \n
-  Poet \n
-  Caver \n
-  Hiker \n
-  Gamer \n
-  Swing Jazz Dancer \n
-  Dean's Award Winner \n
-  Global Game Jam Third Runner Up \n
-  \n
+  Musician <br>
+  Amateur Actor <br>
+  Poet <br>
+  Caver <br>
+  Hiker <br>
+  Gamer <br>
+  Swing Jazz Dancer <br>
+  Dean's Award Winner <br>
+  Global Game Jam Third Runner Up <br>
+  <br>
   and many more...
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
